@@ -1,0 +1,10 @@
+{
+    "common": {
+        "serviceBaseUrl": "http://www.beelives.vn:81/",
+        "api": "api/",
+        "schoolCode": "HN0",
+        "retry": 2,
+        "requestTimeout": 5000,
+        "lang": "vi"
+    }
+}
